@@ -59,3 +59,7 @@ print 'Standard deviation of X:', np.std(X)
 
 **What's the Difference Between Standard Deviation and Mean?**
 * Mean is the average of the data points whereas the standard deviation is the measure of how spread apart each point is from the mean. Standard deviation is more useful as a larger number means the returns fluctuate greatly from the mean
+
+**Semivariance and semideviation**
+* accounts for only the negative variance from the mean
+* eqn is a trivial change from the above formulas
